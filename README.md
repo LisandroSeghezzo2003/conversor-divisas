@@ -7,7 +7,7 @@ total convertido en dólares.
 
 La conversión se calcula con el precio de "venta", porque es el que paga y quien compra dólares.
 
-**Integrantes:** Martín Lazzaro - Ludueña Nicolas - Seghezzo Lisandro, Martin
+**Integrantes:** Lazzaro Martín - Ludueña Nicolas - Seghezzo Lisandro
 
 ## Estructura del proyecto
 
